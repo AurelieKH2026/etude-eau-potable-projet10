@@ -1,4 +1,8 @@
-# Accès à l’eau potable – Tableau de bord DWFA
+#  – Tableau de bord DWFA
+<img width="1429" height="839" alt="image" src="https://github.com/user-attachments/assets/edee8f16-ac60-413f-bf90-b19f209a80b7" />
+<img width="1456" height="805" alt="Capture d&#39;écran 2026-04-21 102818" src="https://github.com/user-attachments/assets/a76db884-9458-4256-8308-c4884a61762e" />
+<img width="1480" height="847" alt="Capture d&#39;écran 2026-04-21 102754" src="https://github.com/user-attachments/assets/59014ad2-4e24-468b-a2b3-3e01276254c6" />
+
 
 ## Contexte
 
